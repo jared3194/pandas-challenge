@@ -1,5 +1,17 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
+## Observable Trends
+
+1. The vast majority of the total player base of 576 players are male. ~84% of players are male.
+2. ~45% of players are within the ages of 20-24 and ~19% of players are within the ages of 15-19. This would indicate that Heroes of Pymoli is most popular amoungst teen males and males in their early 20's.
+3. The most popular and profitable items are the Final Critic and the Oathbreaker with total purchase values of $59.99 and $50.76 respectively. 
+
+Final Reccomendation:
+
+Heroes of Pymoli is most popular amongst young men and teens. Marketing efforts should be tailored to appeal to this demographic to maximize item purchases. The design and development team should also use the Final Critic and Oathbreaker as blueprints for future item releases since these items were the most popular amongst the player base. 
+
+
+
 ## Background
 
 The data dive continues!
